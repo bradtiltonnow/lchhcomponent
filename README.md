@@ -1,5 +1,5 @@
 @bttmtp/meetup-cards
 ===============================================
-A web component that displays meetups in card format
+A web component built through three episodes of live coding happy hour.
 
-Component Authors, provide some documentation for your users here!
+More info can be found at the [Orlando Components LCHH Blog](https://developer.servicenow.com/blog.do?p=/post/orlando-components-lchh-recap/)
