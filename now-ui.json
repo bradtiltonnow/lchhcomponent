@@ -1,0 +1,8 @@
+{
+	"components": {
+	    "brad-bttmtp-meetup-cards": {
+	        "innerComponents": ["now-highlighted-value", "ui-effect-http"]
+	    }
+	},
+	"scopeName": "x_brad_bttmtp_me_1"
+}
