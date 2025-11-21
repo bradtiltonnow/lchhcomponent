@@ -27,7 +27,7 @@
 		"sn-translate": "orlando"
 	},
 	"devDependencies": {
-		"@servicenow/cli-archetype-dev": "17.0.1",
-		"@servicenow/cli-component-archetype-dev": "17.0.1"
+		"@servicenow/cli-archetype-dev": "24.0.1",
+		"@servicenow/cli-component-archetype-dev": "24.0.1"
 	}
 }
